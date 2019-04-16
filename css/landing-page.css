@@ -23,6 +23,8 @@ h6 {
 
 .topnav {
   font-size: 14px;
+  height: 60px;
+  vertical-align: center;
 }
 
 .lead {
@@ -37,11 +39,12 @@ h6 {
   color: #f8f8f8;
   background: url(../img/dawn.jpg) no-repeat center center;
   background-size: cover;
+  height: 620px;
 }
 
 .intro-message {
   position: relative;
-  padding-top: 20%;
+  padding-top: 10%;
   padding-bottom: 20%;
 }
 
