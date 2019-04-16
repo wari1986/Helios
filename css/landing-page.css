@@ -108,11 +108,47 @@ h6 {
 
 .section-heading {
   margin-bottom: 30px;
+  display: flex;
+}
+
+.process-section {
+  width: 350px;
+}
+
+.process-section p {
+  font-size: 14px;
+  text-align: justify;
+}
+
+#ourprocess {
+  margin-left: 900px;
+  margin-bottom: 50px;
+  text-align: right;
+}
+
+#meet {
+  margin-left: 0px;
+}
+
+#plan {
+  margin-left: 300px;
+}
+
+#design {
+  margin-left: 600px;
+}
+
+#testing {
+  margin-left: 400px;
+}
+
+#launch {
+  margin-left: 800px;
 }
 
 .section-heading-spacer {
   float: left;
-  width: 200px;
+  width: 100%;
   border-top: 3px solid #e7e7e7;
 }
 
