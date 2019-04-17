@@ -113,11 +113,10 @@ h6 {
 
 .section-heading {
   margin-bottom: 30px;
-  display: flex;
 }
 
 .process-section {
-  width: 200px;
+  width: 220px;
 }
 
 .process-section p {
@@ -146,7 +145,6 @@ h6 {
 
 #testing {
   margin-left: 950px;
-  padding-top: 0px;
 }
 
 #launch {
@@ -174,6 +172,11 @@ h6 {
 
 #arrowdesign {
   margin-top: 30px;
+}
+
+#arrowreverse {
+  margin-top: -180px;
+  margin-left: 250px;
 }
 
 .section-heading-spacer {
