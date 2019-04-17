@@ -165,8 +165,10 @@ h6 {
   width: 100px;
   height: 100px;
   background-color: #e8f2f9;
-  padding: 15px;
-  display: inline-block;
+  text-align: center;
+  line-height: 120px;
+  vertical-align: middle;
+  padding: 10px;
 }
 
 .arrow-reverse {
@@ -181,6 +183,10 @@ h6 {
   float: left;
   border-radius: 50%;
   background-color: #e8f2f9;
+  text-align: center;
+  line-height: 100px;
+  vertical-align: middle;
+  padding: 10px;
 }
 
 #arrowdesign {
@@ -201,6 +207,22 @@ h6 {
 #arrowreverse {
   margin-top: -250px;
   margin-left: 250px;
+}
+
+.icon {
+  float: left;
+  background-color: #e8f2f9;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 120px;
+  vertical-align: middle;
+  padding: 10px;
+}
+
+#coffee {
+  margin-left: 300px;
 }
 
 .section-heading-spacer {
