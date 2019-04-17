@@ -102,7 +102,7 @@ h6 {
 
 .content-section-a {
   padding: 50px 0;
-  background-color: #f8f8f8;
+  background-color: #14a4e7;
 }
 
 .content-section-b {
@@ -174,6 +174,14 @@ h6 {
   margin-top: 30px;
 }
 
+#agile {
+  margin-top: -200px;
+  margin-left: 320px;
+  font-size: 11px;
+  width: 75px;
+  text-align: left;
+}
+
 #arrowreverse {
   margin-top: -180px;
   margin-left: 250px;
@@ -220,16 +228,15 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
     font-size: 3em;
   }
+}
+ul.banner-social-buttons > li {
+  display: block;
+  margin-bottom: 20px;
+  padding: 0;
+}
 
-  ul.banner-social-buttons > li {
-    display: block;
-    margin-bottom: 20px;
-    padding: 0;
-  }
-
-  ul.banner-social-buttons > li:last-child {
-    margin-bottom: 0;
-  }
+ul.banner-social-buttons > li:last-child {
+  margin-bottom: 0;
 }
 
 footer {
