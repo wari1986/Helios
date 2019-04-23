@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Roboto Slab", serif;
   font-weight: 700;
 }
 
@@ -55,7 +55,7 @@ h6 {
 }
 
 .intro-divider {
-  width: 400px;
+  width: 100%;
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
@@ -115,6 +115,9 @@ h6 {
   margin-bottom: 30px;
 }
 
+#quote {
+  font-size: 50px;
+}
 .process-section {
   width: 220px;
 }
@@ -177,10 +180,9 @@ h6 {
 }
 
 .diagonal-arrow {
-  width: 60px;
-  margin-top: 30px;
-  margin-left: -60px;
+  width: 100px;
   float: left;
+  margin-left: 300px;
   border-radius: 50%;
   background-color: #e8f2f9;
   text-align: center;
@@ -214,7 +216,7 @@ h6 {
   background-color: #e8f2f9;
   width: 60px;
   height: 60px;
-  border-radius: 50%;
+  border-radius: 45%;
   text-align: center;
   line-height: 120px;
   vertical-align: middle;
