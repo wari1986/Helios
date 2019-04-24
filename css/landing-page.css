@@ -72,27 +72,14 @@ h6 {
   .intro-message > h1 {
     font-size: 3em;
   }
-
-  ul.intro-social-buttons > li {
-    display: block;
-    margin-bottom: 20px;
-    padding: 0;
-  }
-
-  ul.intro-social-buttons > li:last-child {
-    margin-bottom: 0;
-  }
-
-  .intro-divider {
-    width: 100%;
-  }
-  /*.content-section-a {
-    display: flex;
-    flex-direction: column;
-    margin-left: 0px;
-  */
+}
+.intro-divider {
+  width: 100%;
 }
 
+.arrow {
+  display: none;
+}
 .network-name {
   text-transform: uppercase;
   font-size: 14px;
@@ -266,7 +253,7 @@ h6 {
   .banner h2 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
-    font-size: 3em;
+    font-size: 4em;
   }
 }
 ul.banner-social-buttons > li {
